@@ -1,0 +1,10 @@
+.cabecalhoPrincipal .container{/*Div Pai*/
+   display:flex;
+   align-items:center;
+   justify-content:space-between; /*Espaço dentro do pai*/
+}
+
+.cabecalhoPrincipal-nav{
+   display:flex;
+   
+}
