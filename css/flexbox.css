@@ -94,5 +94,7 @@
       justify-content:center;
    }
 
-   
+   .cabecalhoPrincial-nav-link-app{ /*muda a orden do div*/
+      order: -1; 
+   }
 }
