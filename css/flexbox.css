@@ -58,6 +58,25 @@
 }
 
 
+.videoSobre .container{
+   display:flex;
+   justify-content:space-between;
+}
+
+.videoSobre-sobre{
+   text-align:center;
+   display: flex;flex-direction:column;
+   flex-grow: 2;
+}
+
+.videoSobre-sobre-list{
+   flex-grow: 1;
+}
+
+.videoSobre-video{
+   flex-grow: 1;
+}
+
 /*Mobile*/
 @media (max-width: 768px){
    .cabecalhoPrincipal-nav{
@@ -98,3 +117,4 @@
       order: -1; 
    }
 }
+/*!video*/
