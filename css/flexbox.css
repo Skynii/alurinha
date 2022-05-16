@@ -97,4 +97,12 @@
    .cabecalhoPrincial-nav-link-app{ /*muda a orden do div*/
       order: -1; 
    }
+
+   .videoSobre .container{
+      flex-direction: collumn;
+   }
+   .videoSobre-video{
+      flex-shrink: 2;
+      margin: 0 auto;
+   }
 }
